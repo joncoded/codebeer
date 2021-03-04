@@ -1,4 +1,4 @@
-const url = 'https://random-data-api.com/api/beer/random_beer?size=1';
+const url = 'https://random-data-api.com/api/beer/random_beer?size=10';
 
 async function getBeer() {
 
